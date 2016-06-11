@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase Sample</string>
+    <string name="tv_title">パインアメの価格: </string>
+    <string name="btn_crash">Crash!</string>
+</resources>
